@@ -1,55 +1,65 @@
-<!-- ───────────────────────────────────────────────────────── -->
-<!-- 👋 Welcome / Header -->
-<h1 align="center">Hi 👋, I'm Sujan Pokharel (sujan07)</h1>
+<!-- Header -->
+<h1 align="center">👋 Hey, I'm <strong>Sujan Pokharel</strong></h1>
+<h3 align="center">Aspiring Developer • Tech Enthusiast • Problem Solver</h3>
 
 <p align="center">
-  <a href="https://itssujanpokharel.vercel.app/" target="_blank">My Portfolio / Website</a> &nbsp; | &nbsp; 
-  <a href="https://github.com/SUJANPOKHAREL07" target="_blank">GitHub Profile</a>
+  <a href="https://itssujanpokharel.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://github.com/SUJANPOKHAREL07" target="_blank">💻 GitHub</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 I’m currently working on: *[Your current area: e.g. learning, personal projects, experiments]*  
-- 🌱 I’m learning / improving: *[Technologies or skills you’re focusing on]*  
-- 👯 I’m open to collaborating on: *[Open-source projects, learning collaborations, hackathons…]*  
-- 💬 Ask me about: *[Topics you know / are comfortable with — programming languages, web dev, etc]*  
-- 📫 How to reach me: *[Email / LinkedIn / other contact link]*  
-- ⚡ Fun fact: *[Something interesting about you — hobbies, interests, side-projects]*  
+## 🚀 About Me
+- 💡 Curious learner exploring development & technology  
+- 🎯 Currently building personal projects to sharpen my skills  
+- 🌱 Learning: Web development, JavaScript, Node.js, React & more  
+- 🤝 Open to collaboration on creative and impactful projects  
+- 📬 Reach me at: **your-email@example.com**  
 
 ---
 
-## 🧰 Technologies & Tools
+## 🛠️ Tech Stack
 
-Here are some tools / languages / frameworks I work with or am exploring:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height the="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <!-- Add or replace as relevant to you -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,github,git,python,mongodb,postgres" />
 </p>
 
 ---
 
-## 📂 What’s Next / My Goals
+## 📊 GitHub Stats
 
-- 🚀 Build and publish my first public project  
-- 📖 Keep learning new frameworks / languages  
-- 🤝 Contribute to open-source projects  
-- 💡 Explore real-world challenges and build useful tools  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SUJANPOKHAREL07&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUJANPOKHAREL07&theme=tokyonight" height="160"/>
+</p>
 
----
-
-## 📫 Contact / Where to Find Me
-
-- 🌐 Portfolio / Website: https://itssujanpokharel.vercel.app/  
-- 🔗 GitHub: https://github.com/SUJANPOKHAREL07  
-- ✉️ Email: *your-email@example.com* (replace with real)  
-- 🔗 LinkedIn / Twitter / Other socials: *links here*  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUJANPOKHAREL07&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-Thank you for visiting my profile — feel free to connect!  
+## 📈 Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SUJANPOKHAREL07&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+## ✨ Fun Things About Me
+- 🎬 Interested in filmmaking & storytelling  
+- 💻 Loves building tools & experimenting with tech  
+- ⚡ "Learning something new every day."  
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://itssujanpokharel.vercel.app/"><img src="https://skillicons.dev/icons?i=web" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+</p>
+
+---
+
+<h3 align="center">🔥 Thanks for visiting! Have a great day! 😊</h3>
