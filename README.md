@@ -56,8 +56,8 @@
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://itssujanpokharel.vercel.app/"><img src="https://skillicons.dev/icons?i=web" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://www.linkedin.com/in/sujan-pokharel-999965353/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.instagram.com/itssuzan07/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
 ---
