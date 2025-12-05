@@ -14,7 +14,7 @@
 - 🎯 Currently building personal projects to sharpen my skills  
 - 🌱 Learning: Web development, JavaScript, Node.js, React & more  
 - 🤝 Open to collaboration on creative and impactful projects  
-- 📬 Reach me at: **your-email@example.com**  
+- 📬 Reach me at: **sujanpokharel247@gmail.com**  
 
 ---
 
