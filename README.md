@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Sujan+Pokharel;Full-Stack+Web+%26+Desktop+Developer;Building+cool+things+with+TypeScript+%26+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Hi+There!+👋+I'm+Sujan+Pokharel;Full-Stack+Web+%26+Desktop+Developer;Building+cool+things+with+TypeScript+%26+React" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -21,7 +21,6 @@ Currently focused on **web development**, **desktop apps (Electron)**, and explo
 
 - 🌱 Currently learning: **GraphQL**, **AWS Cognito**, advanced **Nx** monorepos & **TypeScript** patterns
 - 🔭 Working on: Desktop app for **SkillPrompt** + Electron + React projects
-- 🎨 In parallel: UI/UX design, print media & filmmaking
 - 🎯 2026 Goal: Ship production-grade full-stack apps and contribute more openly
 
 <br/>
